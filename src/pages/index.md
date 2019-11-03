@@ -1,12 +1,10 @@
 ---
 title: Home
 sections:
-  - title: Reflex
+  - title: Christopher Rivera
     img_path: images/pic01.jpg
     content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+      My name is Christopher Rivera and I am a Front-End Web developer. I have acquired many skills with languages like HTML, CSS, Javascript, Wordpress, and Github. I am motivated and a solutions-oriented programmer eager to apply skills in a collaborative front-end role. Quick to adapt to new environments and contribute to projects.
     actions:
       - label: Get Started
         url: /generic
